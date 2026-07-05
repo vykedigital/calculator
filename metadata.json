@@ -1,0 +1,6 @@
+{
+  "name": "Calc & Convert",
+  "description": "A feature-rich Calculator and Currency Converter styled with Material Design 3 (Material You), live exchange rates, and off-line fallback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
